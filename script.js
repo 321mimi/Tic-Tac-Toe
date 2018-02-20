@@ -19,12 +19,6 @@
  *      function checkForWinner(i)
  *      function computerPlays()
  *      function clear()
- *      
- *
- * To do:
- * Stop game as soon as tie is obvious
- * Make normal a little harder
- * Have only one script and HTML file
  *
 */
 
